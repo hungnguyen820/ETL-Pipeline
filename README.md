@@ -23,13 +23,13 @@ This project is an end-to-end ETL (Extract, Transform, Load) pipeline that retri
 
 ## 📦 File Structure
 
-├── etl-largest-banks-market-cap.ipynb # Main Python script
-├── exchange_rate_data.ipynb # Create exchange_rate.csv
-├── exchange_rate.csv # Currency conversion rates
-├── transformed_data.csv # Output file with converted values
-├── Banks.db # SQLite database (created after first run)
+├── etl-largest-banks-market-cap.ipynb # Main Python script  
+├── exchange_rate_data.ipynb # Create exchange_rate.csv  
+├── exchange_rate.csv # Currency conversion rates  
+├── transformed_data.csv # Output file with converted values  
+├── Banks.db # SQLite database (created after first run)  
 └── code_log.txt # Log file generated during execution
-
+  
 
 ## 📝 Prerequisites
 

@@ -37,6 +37,7 @@ Install required packages using pip:
 
 ```bash
 pip install pandas numpy requests beautifulsoup4
+```
 
 ## 📌 Notes
 The Wikipedia URL used is an archived version for consistency.

@@ -38,12 +38,12 @@ Install required packages using pip:
 ```bash
 pip install pandas numpy requests beautifulsoup4
 
-📌 Notes
+##📌 Notes
 The Wikipedia URL used is an archived version for consistency.
 
 The exchange rate file is simplified for demonstration. In real-world scenarios, dynamic FX API integration is recommended.
 
-👤 Author
+##👤 Author
 Hung Nguyen
 
 GitHub link: https://github.com/hungnguyen820
